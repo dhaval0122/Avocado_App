@@ -9,3 +9,9 @@ Avocado is THE professional, full-featured and high performance swiftUI iOS App!
 
 ### **Light Theme**
 
+<img src="https://user-images.githubusercontent.com/1635597/115422242-58f17280-a21a-11eb-85fe-8ae94a2f2e5d.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422285-64449e00-a21a-11eb-935b-cfce514f4d75.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422306-69095200-a21a-11eb-9e21-cbea0ecaecd4.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422329-6dce0600-a21a-11eb-82ef-e93400533af1.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422358-71fa2380-a21a-11eb-9b83-b9f7de2e6d2d.png" width="18%"></img>
+
+
+### **Dark Theme**
+
+<img src="https://user-images.githubusercontent.com/1635597/115422605-b1287480-a21a-11eb-880e-14f7277236d9.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422654-bc7ba000-a21a-11eb-8f1a-dc378a58356c.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422672-c1d8ea80-a21a-11eb-8ee9-dd1923eb0208.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422701-c69d9e80-a21a-11eb-864c-ecf31278f03b.png" width="18%"></img> 
