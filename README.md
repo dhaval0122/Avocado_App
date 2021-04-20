@@ -15,3 +15,14 @@ Avocado is THE professional, full-featured and high performance swiftUI iOS App!
 ### **Dark Theme**
 
 <img src="https://user-images.githubusercontent.com/1635597/115422605-b1287480-a21a-11eb-880e-14f7277236d9.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422654-bc7ba000-a21a-11eb-8f1a-dc378a58356c.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422672-c1d8ea80-a21a-11eb-8ee9-dd1923eb0208.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/1635597/115422701-c69d9e80-a21a-11eb-864c-ecf31278f03b.png" width="18%"></img> 
+
+
+## SwiftUI
+
+MovieSwiftUI is in pure Swift UI, the goal is to see how far SwiftUI can go in its current implementation without using anything from UIKit (basically no UIView/UIViewController representable).
+
+It'll evolve with SwiftUI, every time Apple edits existing or adds new features to the framework.
+
+## Platforms
+
+Currently MovieSwiftUI runs on iPhone, iPad, and macOS. 
